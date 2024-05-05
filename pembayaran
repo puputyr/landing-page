@@ -1,0 +1,85 @@
+<div class="Payment" style="width: 1920px; height: 1024px; position: relative; background: white">
+    <div class="Rectangle11"
+        style="width: 923px; height: 799px; left: 484px; top: 146px; position: absolute; background: rgba(37.40, 98.33, 255, 0.36); border-radius: 7px">
+    </div>
+    <div class="Rectangle6"
+        style="width: 1920px; height: 94px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #2562FF 46%, #163B99 100%)">
+    </div>
+    <div class="WisataSendangGrowong"
+        style="width: 404px; height: 40px; left: 145px; top: 27px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Wisata Sendang Growong</div>
+    <div class="Wisata"
+        style="left: 872px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Wisata</div>
+    <div class="ProdukUnggulan"
+        style="left: 992px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Produk Unggulan</div>
+    <div class="HargaSatuan"
+        style="left: 992px; top: 199px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Harga Satuan</div>
+    <div class="Berita"
+        style="left: 1214px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Berita</div>
+    <div class="Profil"
+        style="left: 1322px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Profil</div>
+    <img class="PexelsPixabay4171733" style="width: 475px; height: 932px; left: -11px; top: 94px; position: absolute"
+        src="https://via.placeholder.com/475x932" />
+    <div class="Rectangle8"
+        style="width: 475px; height: 930px; left: -11px; top: 94px; position: absolute; background: rgba(0, 0, 0, 0.67)">
+    </div>
+    <div class="Payment" style="width: 322px; height: 40px; left: 79px; top: 391px; position: absolute"><span
+            style="color: white; font-size: 64px; font-family: Poppins; font-weight: 500; line-height: 96.02px; word-wrap: break-word">Payment</span><span
+            style="color: #2562FF; font-size: 64px; font-family: Poppins; font-weight: 500; line-height: 96.02px; word-wrap: break-word">.</span>
+    </div>
+    <div class="SelesaikanPembayaranmu"
+        style="left: 79px; top: 456px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 500; line-height: 36.01px; word-wrap: break-word">
+        Selesaikan pembayaranmu.</div>
+    <div class="Rectangle9"
+        style="width: 397px; height: 67px; left: 512px; top: 235px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle10"
+        style="width: 397px; height: 67px; left: 992px; top: 237px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle8"
+        style="width: 193px; height: 51px; left: 869px; top: 771px; position: absolute; background: #2562FF; border-radius: 3px; border: 4px #2562FF solid">
+    </div>
+    <div class="Bayar"
+        style="width: 82px; height: 44px; left: 925px; top: 775px; position: absolute; color: white; font-size: 27px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Bayar</div>
+    <div class="Keterangan"
+        style="left: 512px; top: 199px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Keterangan </div>
+    <div class="Rectangle13"
+        style="width: 397px; height: 67px; left: 754px; top: 389px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="TotalHarga"
+        style="left: 883px; top: 345px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Total Harga </div>
+    <div class="MetodePembayaran"
+        style="left: 810px; top: 512px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Metode Pembayaran*</div>
+    <div class="Tunai"
+        style="left: 612px; top: 671px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Tunai </div>
+    <div class="Qris"
+        style="left: 1174px; top: 671px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        QRIS</div>
+    <div class="BayarLangsungTunaiDiLoket"
+        style="left: 558px; top: 707px; position: absolute; color: #2562FF; font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 30.01px; word-wrap: break-word">
+        Bayar langsung tunai di loket</div>
+    <div class="ScanQrisDenganMBankingEWallet"
+        style="left: 1060px; top: 707px; position: absolute; color: #2562FF; font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 30.01px; word-wrap: break-word">
+        Scan QRIS dengan m-Banking/e-Wallet</div>
+    <img class="Return" style="width: 42px; height: 38px; left: 58px; top: 124px; position: absolute"
+        src="https://via.placeholder.com/42x38" />
+    <div
+        style="left: 526px; top: 254px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        0</div>
+    <div class="Rp0"
+        style="left: 776px; top: 416px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Rp 0</div>
+    <div class="Rp0"
+        style="left: 1007px; top: 247px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Rp 0</div>
+</div>
