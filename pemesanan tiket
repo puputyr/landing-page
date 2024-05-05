@@ -1,0 +1,98 @@
+<div class="FormPembayaran" style="width: 1920px; height: 1024px; position: relative; background: white">
+    <div class="Rectangle6"
+        style="width: 1920px; height: 94px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #2562FF 46%, #163B99 100%)">
+    </div>
+    <div class="WisataSendangGrowong"
+        style="width: 404px; height: 40px; left: 145px; top: 27px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Wisata Sendang Growong</div>
+    <div class="Wisata"
+        style="left: 872px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Wisata</div>
+    <div class="ProdukUnggulan"
+        style="left: 992px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Produk Unggulan</div>
+    <div class="JumlahOrang"
+        style="left: 512px; top: 331px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Jumlah Orang*</div>
+    <div class="HariKunjungan"
+        style="left: 512px; top: 442px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Hari Kunjungan </div>
+    <div class="Berita"
+        style="left: 1214px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Berita</div>
+    <div class="Profil"
+        style="left: 1322px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Profil</div>
+    <img class="PexelsPixabay4171733" style="width: 475px; height: 932px; left: -11px; top: 94px; position: absolute"
+        src="https://via.placeholder.com/475x932" />
+    <div class="Rectangle8"
+        style="width: 475px; height: 930px; left: -11px; top: 94px; position: absolute; background: rgba(0, 0, 0, 0.67)">
+    </div>
+    <div class="Payment" style="width: 322px; height: 40px; left: 79px; top: 391px; position: absolute"><span
+            style="color: white; font-size: 64px; font-family: Poppins; font-weight: 500; line-height: 96.02px; word-wrap: break-word">Payment</span><span
+            style="color: #2562FF; font-size: 64px; font-family: Poppins; font-weight: 500; line-height: 96.02px; word-wrap: break-word">.</span>
+    </div>
+    <div class="Rectangle11"
+        style="width: 923px; height: 707px; left: 485px; top: 158px; position: absolute; background: rgba(37.40, 98.33, 255, 0.36); border-radius: 7px">
+    </div>
+    <div class="SelesaikanPembayaranmu"
+        style="left: 79px; top: 456px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 500; line-height: 36.01px; word-wrap: break-word">
+        Selesaikan pembayaranmu.</div>
+    <div class="Rectangle9"
+        style="width: 397px; height: 67px; left: 512px; top: 235px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle10"
+        style="width: 397px; height: 67px; left: 512px; top: 367px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle15"
+        style="width: 397px; height: 67px; left: 512px; top: 478px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle8"
+        style="width: 193px; height: 51px; left: 856px; top: 735px; position: absolute; background: #2562FF; border-radius: 3px; border: 4px #2562FF solid">
+    </div>
+    <div class="PesanTiket"
+        style="width: 161px; height: 44px; left: 872px; top: 735px; position: absolute; color: white; font-size: 27px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Pesan Tiket</div>
+    <div class="SyaratDanKetentuanBerkunjungMenjagaKebersihanTempatWisataMengikutiHimbauanDanPetunjukPetugasWisataTiketYangSudahDibayarTidakDapatDikembalikanNonRefundable"
+        style="width: 776px; height: 145px; left: 529px; top: 553px; position: absolute"><span
+            style="color: black; font-size: 16px; font-family: Poppins; font-weight: 275; word-wrap: break-word">Syarat
+            dan ketentuan berkunjung :<br /></span><span
+            style="color: black; font-size: 16px; font-family: Poppins; font-weight: 275; word-wrap: break-word">Menjaga
+            kebersihan tempat wisata<br />Mengikuti himbauan dan petunjuk petugas wisata<br />Tiket yang sudah dibayar
+            tidak dapat dikembalikan (non-refundable)</span></div>
+    <div class="SayaTelahMembacaMemahamiSetujuDanBertanggungJawabDenganSegalaResikoBerdasarkanSyaratDanKetentuanYangTelahDitetapkanDiAtas"
+        style="width: 739px; height: 52px; left: 541px; top: 669px; position: absolute; color: black; font-size: 16px; font-family: Poppins; font-weight: 275; word-wrap: break-word">
+        Saya telah membaca, memahami, setuju, dan bertanggung jawab dengan segala resiko berdasarkan syarat dan
+        ketentuan yang telah ditetapkan di atas</div>
+    <div class="MasukanEmailAnda"
+        style="left: 520px; top: 254px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Masukan email anda</div>
+    <div class="NamaLengkap"
+        style="left: 512px; top: 199px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Nama Lengkap *</div>
+    <div class="Rectangle13"
+        style="width: 397px; height: 67px; left: 994px; top: 235px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div class="Rectangle14"
+        style="width: 397px; height: 67px; left: 995px; top: 366px; position: absolute; background: white; border-radius: 4px; border: 2px #2562FF solid">
+    </div>
+    <div
+        style="left: 520px; top: 389px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        0</div>
+    <img class="Email" style="width: 41px; height: 38px; left: 1347px; top: 389px; position: absolute"
+        src="https://via.placeholder.com/41x38" />
+    <div class="MasukanNomerHp"
+        style="left: 1007px; top: 254px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Masukan nomer hp</div>
+    <div class="NoHp"
+        style="left: 994px; top: 199px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        No. HP *</div>
+    <div class="Email"
+        style="left: 995px; top: 328px; position: absolute; color: #2562FF; font-size: 24px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Email *</div>
+    <div class="MasukanEmailAnda"
+        style="left: 1007px; top: 383px; position: absolute; color: #BABABA; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Masukan email anda</div>
+    <img class="Return" style="width: 42px; height: 38px; left: 58px; top: 124px; position: absolute"
+        src="https://via.placeholder.com/42x38" />
+</div>
