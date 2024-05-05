@@ -1,0 +1,49 @@
+<div class="Desktop1" style="width: 1920px; height: 1024px; position: relative; background: white">
+    <div class="Rectangle1"
+        style="width: 1920px; height: 94px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #2562FF 46%, #163B99 100%)">
+    </div>
+    <div class="WebsiteDesaSumbersawit"
+        style="width: 404px; height: 40px; left: 145px; top: 27px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Website Desa Sumbersawit</div>
+    <div class="WisataAlamSendangGrowong"
+        style="left: 268px; top: 794px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 500; line-height: 36.02px; word-wrap: break-word">
+        Wisata alam<br />Sendang Growong</div>
+    <div class="ProdukMakananKeripikGadung"
+        style="left: 634px; top: 794px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 500; line-height: 36.02px; word-wrap: break-word">
+        Produk Makanan<br />Keripik Gadung</div>
+    <div class="KomoditasKopiNangka"
+        style="left: 1011px; top: 794px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Poppins; font-weight: 500; line-height: 36.02px; word-wrap: break-word">
+        Komoditas<br />Kopi Nangka</div>
+    <div class="Wisata"
+        style="left: 872px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Wisata</div>
+    <div class="ProdukUnggulan"
+        style="left: 992px; top: 32px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Produk Unggulan</div>
+    <div class="Berita"
+        style="left: 1214px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Berita</div>
+    <div class="ProfilDesa"
+        style="left: 1317px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Profil Desa</div>
+    <img class="PexelsPixabay4171731" style="width: 1920px; height: 545px; left: 0px; top: 94px; position: absolute"
+        src="https://via.placeholder.com/1440x545" />
+    <div class="Rectangle2"
+        style="width: 1920px; height: 545px; left: 0px; top: 94px; position: absolute; background: linear-gradient(270deg, rgba(0, 0, 0, 0.65) 14%, rgba(102, 102, 102, 0) 100%)">
+    </div>
+    <div class="WelcomeTo"
+        style="width: 613px; height: 174px; left: 758px; top: 214px; position: absolute; text-align: right; color: white; font-size: 96px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Welcome to</div>
+    <div class="Sumbersawit"
+        style="width: 694px; height: 174px; left: 677px; top: 301px; position: absolute; text-align: right; color: white; font-size: 96px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Sumbersawit</div>
+    <img class="PexelsChiecharon9132151"
+        style="width: 289px; height: 187px; left: 576px; top: 595px; position: absolute; border: 5px white solid"
+        src="https://via.placeholder.com/289x187" />
+    <img class="PexelsChiecharon9132152"
+        style="width: 289px; height: 187px; left: 220px; top: 595px; position: absolute; border: 5px white solid"
+        src="https://via.placeholder.com/289x187" />
+    <img class="PexelsChiecharon9132153"
+        style="width: 289px; height: 187px; left: 932px; top: 595px; position: absolute; border: 5px white solid"
+        src="https://via.placeholder.com/289x187" />
+</div>
