@@ -1,0 +1,53 @@
+<div class="Desktop2" style="width: 1920px; height: 1024px; position: relative; background: white">
+    <img class="PexelsPixabay4171732" style="width: 475px; height: 932px; left: 0px; top: 92px; position: absolute"
+        src="https://via.placeholder.com/475x932" />
+    <div class="Rectangle5"
+        style="width: 475px; height: 930px; left: 0px; top: 94px; position: absolute; background: rgba(0, 0, 0, 0.67)">
+    </div>
+    <div class="Rectangle3"
+        style="width: 1920px; height: 94px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #2562FF 46%, #163B99 100%)">
+    </div>
+    <div class="WisataSendangGrowong"
+        style="width: 404px; height: 40px; left: 145px; top: 27px; position: absolute; color: white; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Wisata Sendang Growong</div>
+    <div class="LogIn"
+        style="left: 1115px; top: 33px; position: absolute; color: white; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Log In</div>
+    <div class="WisataAlamSendangGrowongMerupakanTempatWisataPemandianDenganKolamRenangYangAirnyaBerasalDariSumberMataAirSetempatSehinggaSangatJernihDanBersihUntukMengaksesLokasiWisataAlamSendangGrowongTidaklahSulitCukupCariDiGoogleMapsYangAdaDiHandphoneDenganKataKunciSendangGrowongNantiAkanMunculRuteJalanPenunjukMenujuSendangGrowong"
+        style="width: 512px; height: 324px; left: 835px; top: 332px; position: absolute; color: black; font-size: 20px; font-family: Poppins; font-weight: 400; word-wrap: break-word">
+        Wisata Alam Sendang Growong, merupakan tempat wisata pemandian dengan kolam renang yang airnya berasal dari
+        sumber mata air setempat, sehingga sangat jernih dan bersih.<br />Untuk mengakses lokasi wisata alam Sendang
+        Growong, tidaklah sulit. Cukup cari di google maps yang ada di handphone dengan kata kunci Sendang Growong,
+        nanti akan muncul rute jalan penunjuk menuju Sendang Growong.</div>
+    <img class="PexelsSouvenirpixels4170741"
+        style="width: 623px; height: 439px; left: 145px; top: 183px; position: absolute"
+        src="https://via.placeholder.com/623x439" />
+    <div class="WisataAlam"
+        style="width: 529px; height: 174px; left: 768px; top: 126px; position: absolute; text-align: right; color: black; font-size: 86px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Wisata Alam</div>
+    <div class="SendangGrowong"
+        style="width: 529px; height: 166px; left: 818px; top: 195px; position: absolute; text-align: right; color: black; font-size: 64px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Sendang Growong</div>
+    <div class="Rectangle4"
+        style="width: 193px; height: 51px; left: 145px; top: 678px; position: absolute; background: #2562FF; border: 4px #2562FF solid">
+    </div>
+    <div class="BookNow"
+        style="width: 134px; height: 38px; left: 175px; top: 685px; position: absolute; color: white; font-size: 27px; font-family: Poppins; font-weight: 500; word-wrap: break-word">
+        Book Now</div>
+    <img class="PexelsChiecharon9132154"
+        style="width: 289px; height: 187px; left: 501px; top: 786px; position: absolute"
+        src="https://via.placeholder.com/289x187" />
+    <img class="PexelsChiecharon9132155"
+        style="width: 289px; height: 187px; left: 145px; top: 786px; position: absolute"
+        src="https://via.placeholder.com/289x187" />
+    <img class="PexelsChiecharon9132156"
+        style="width: 289px; height: 187px; left: 857px; top: 786px; position: absolute"
+        src="https://via.placeholder.com/289x187" />
+    <div class="Rectangle7"
+        style="width: 108px; height: 45px; left: 1203px; top: 26px; position: absolute; background: white"></div>
+    <div class="SignUp"
+        style="left: 1218px; top: 33px; position: absolute; color: #2562FF; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">
+        Sign Up</div>
+    <img class="Return" style="width: 42px; height: 38px; left: 145px; top: 119px; position: absolute"
+        src="https://via.placeholder.com/42x38" />
+</div>
